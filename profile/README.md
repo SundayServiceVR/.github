@@ -13,6 +13,7 @@ Sunday Service has grown into a large, thriving community with many talented mus
 * We should ask for help from the community.  We are moving at a pretty good pace right now, but more people also means more diverse ideas, and a boost in speed is always great if it happens to work out that way.
 * Identify what ideas are worth tackling first.  Identify ideas that may not be worth the effort.
 * Decide if we want to offer our systems for other clubs or keep it to our own home.
+* Decide if we want to offer performers to sign up and manage their own data, or if we should keep this to event managers only.
 * Offer to get the whiteboard released.
 
 
